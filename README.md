@@ -3,7 +3,7 @@ I am a Computer Science student at UCI set to graduate in 2023.
 
 ![](https://media.istockphoto.com/vectors/computer-games-development-concept-banner-header-vector-id1169059259?k=20&m=1169059259&s=170667a&w=0&h=eTM21QPAMAOzsykzQovqubRUphy20WK8cB1c-dXiVjg=)
 
-I am an active member of UCI's VGDC and have a few videogame repositories here. Looking for possible future in videogame development. Most of my work so far is in C#/Unity, but I am also looking into possible experiences with Unreal Engine.
+I am an active member of UCI's VGDC and have a few videogame repositories here. Looking for possible future in software and videogame development. Most of my work so far is in C#/Unity, but I am also looking into possible experiences with Unreal Engine.
 
 Business email: estebanaaldana@gmail.com.  
 Itch.io: https://elestebann.itch.io
